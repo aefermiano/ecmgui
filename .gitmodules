@@ -1,0 +1,3 @@
+[submodule "native/libecm"]
+	path = native/libecm
+	url = https://github.com/aefermiano/libecm.git

@@ -1,0 +1,13 @@
+target/**
+.idea/**
+*.so
+CMakeCache.txt
+CMakeFiles
+cmake_install.cmake
+com_afermiano_*.h
+lib/**
+Makefile
+*.swp
+*.user
+build-*
+.run
